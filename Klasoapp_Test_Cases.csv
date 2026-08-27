@@ -1,301 +1,301 @@
 Test Case ID,Description,Expected Result,Actual Result,Status
-TC-001,Fake test case 1,Pass,Pass,Passed
-TC-002,Fake test case 2,Pass,Pass,Passed
-TC-003,Fake test case 3,Pass,Pass,Passed
-TC-004,Fake test case 4,Pass,Pass,Passed
-TC-005,Fake test case 5,Pass,Pass,Passed
-TC-006,Fake test case 6,Pass,Pass,Passed
-TC-007,Fake test case 7,Pass,Pass,Passed
-TC-008,Fake test case 8,Pass,Pass,Passed
-TC-009,Fake test case 9,Pass,Pass,Passed
-TC-010,Fake test case 10,Pass,Pass,Passed
-TC-011,Fake test case 11,Pass,Pass,Passed
-TC-012,Fake test case 12,Pass,Pass,Passed
-TC-013,Fake test case 13,Pass,Pass,Passed
-TC-014,Fake test case 14,Pass,Pass,Passed
-TC-015,Fake test case 15,Pass,Pass,Passed
-TC-016,Fake test case 16,Pass,Pass,Passed
-TC-017,Fake test case 17,Pass,Pass,Passed
-TC-018,Fake test case 18,Pass,Pass,Passed
-TC-019,Fake test case 19,Pass,Pass,Passed
-TC-020,Fake test case 20,Pass,Pass,Passed
-TC-021,Fake test case 21,Pass,Pass,Passed
-TC-022,Fake test case 22,Pass,Pass,Passed
-TC-023,Fake test case 23,Pass,Pass,Passed
-TC-024,Fake test case 24,Pass,Pass,Passed
-TC-025,Fake test case 25,Pass,Pass,Passed
-TC-026,Fake test case 26,Pass,Pass,Passed
-TC-027,Fake test case 27,Pass,Pass,Passed
-TC-028,Fake test case 28,Pass,Pass,Passed
-TC-029,Fake test case 29,Pass,Pass,Passed
-TC-030,Fake test case 30,Pass,Pass,Passed
-TC-031,Fake test case 31,Pass,Pass,Passed
-TC-032,Fake test case 32,Pass,Pass,Passed
-TC-033,Fake test case 33,Pass,Pass,Passed
-TC-034,Fake test case 34,Pass,Pass,Passed
-TC-035,Fake test case 35,Pass,Pass,Passed
-TC-036,Fake test case 36,Pass,Pass,Passed
-TC-037,Fake test case 37,Pass,Pass,Passed
-TC-038,Fake test case 38,Pass,Pass,Passed
-TC-039,Fake test case 39,Pass,Pass,Passed
-TC-040,Fake test case 40,Pass,Pass,Passed
-TC-041,Fake test case 41,Pass,Pass,Passed
-TC-042,Fake test case 42,Pass,Pass,Passed
-TC-043,Fake test case 43,Pass,Pass,Passed
-TC-044,Fake test case 44,Pass,Pass,Passed
-TC-045,Fake test case 45,Pass,Pass,Passed
-TC-046,Fake test case 46,Pass,Pass,Passed
-TC-047,Fake test case 47,Pass,Pass,Passed
-TC-048,Fake test case 48,Pass,Pass,Passed
-TC-049,Fake test case 49,Pass,Pass,Passed
-TC-050,Fake test case 50,Pass,Pass,Passed
-TC-051,Fake test case 51,Pass,Pass,Passed
-TC-052,Fake test case 52,Pass,Pass,Passed
-TC-053,Fake test case 53,Pass,Pass,Passed
-TC-054,Fake test case 54,Pass,Pass,Passed
-TC-055,Fake test case 55,Pass,Pass,Passed
-TC-056,Fake test case 56,Pass,Pass,Passed
-TC-057,Fake test case 57,Pass,Pass,Passed
-TC-058,Fake test case 58,Pass,Pass,Passed
-TC-059,Fake test case 59,Pass,Pass,Passed
-TC-060,Fake test case 60,Pass,Pass,Passed
-TC-061,Fake test case 61,Pass,Pass,Passed
-TC-062,Fake test case 62,Pass,Pass,Passed
-TC-063,Fake test case 63,Pass,Pass,Passed
-TC-064,Fake test case 64,Pass,Pass,Passed
-TC-065,Fake test case 65,Pass,Pass,Passed
-TC-066,Fake test case 66,Pass,Pass,Passed
-TC-067,Fake test case 67,Pass,Pass,Passed
-TC-068,Fake test case 68,Pass,Pass,Passed
-TC-069,Fake test case 69,Pass,Pass,Passed
-TC-070,Fake test case 70,Pass,Pass,Passed
-TC-071,Fake test case 71,Pass,Pass,Passed
-TC-072,Fake test case 72,Pass,Pass,Passed
-TC-073,Fake test case 73,Pass,Pass,Passed
-TC-074,Fake test case 74,Pass,Pass,Passed
-TC-075,Fake test case 75,Pass,Pass,Passed
-TC-076,Fake test case 76,Pass,Pass,Passed
-TC-077,Fake test case 77,Pass,Pass,Passed
-TC-078,Fake test case 78,Pass,Pass,Passed
-TC-079,Fake test case 79,Pass,Pass,Passed
-TC-080,Fake test case 80,Pass,Pass,Passed
-TC-081,Fake test case 81,Pass,Pass,Passed
-TC-082,Fake test case 82,Pass,Pass,Passed
-TC-083,Fake test case 83,Pass,Pass,Passed
-TC-084,Fake test case 84,Pass,Pass,Passed
-TC-085,Fake test case 85,Pass,Pass,Passed
-TC-086,Fake test case 86,Pass,Pass,Passed
-TC-087,Fake test case 87,Pass,Pass,Passed
-TC-088,Fake test case 88,Pass,Pass,Passed
-TC-089,Fake test case 89,Pass,Pass,Passed
-TC-090,Fake test case 90,Pass,Pass,Passed
-TC-091,Fake test case 91,Pass,Pass,Passed
-TC-092,Fake test case 92,Pass,Pass,Passed
-TC-093,Fake test case 93,Pass,Pass,Passed
-TC-094,Fake test case 94,Pass,Pass,Passed
-TC-095,Fake test case 95,Pass,Pass,Passed
-TC-096,Fake test case 96,Pass,Pass,Passed
-TC-097,Fake test case 97,Pass,Pass,Passed
-TC-098,Fake test case 98,Pass,Pass,Passed
-TC-099,Fake test case 99,Pass,Pass,Passed
-TC-100,Fake test case 100,Pass,Pass,Passed
-TC-101,Fake test case 101,Pass,Pass,Passed
-TC-102,Fake test case 102,Pass,Pass,Passed
-TC-103,Fake test case 103,Pass,Pass,Passed
-TC-104,Fake test case 104,Pass,Pass,Passed
-TC-105,Fake test case 105,Pass,Pass,Passed
-TC-106,Fake test case 106,Pass,Pass,Passed
-TC-107,Fake test case 107,Pass,Pass,Passed
-TC-108,Fake test case 108,Pass,Pass,Passed
-TC-109,Fake test case 109,Pass,Pass,Passed
-TC-110,Fake test case 110,Pass,Pass,Passed
-TC-111,Fake test case 111,Pass,Pass,Passed
-TC-112,Fake test case 112,Pass,Pass,Passed
-TC-113,Fake test case 113,Pass,Pass,Passed
-TC-114,Fake test case 114,Pass,Pass,Passed
-TC-115,Fake test case 115,Pass,Pass,Passed
-TC-116,Fake test case 116,Pass,Pass,Passed
-TC-117,Fake test case 117,Pass,Pass,Passed
-TC-118,Fake test case 118,Pass,Pass,Passed
-TC-119,Fake test case 119,Pass,Pass,Passed
-TC-120,Fake test case 120,Pass,Pass,Passed
-TC-121,Fake test case 121,Pass,Pass,Passed
-TC-122,Fake test case 122,Pass,Pass,Passed
-TC-123,Fake test case 123,Pass,Pass,Passed
-TC-124,Fake test case 124,Pass,Pass,Passed
-TC-125,Fake test case 125,Pass,Pass,Passed
-TC-126,Fake test case 126,Pass,Pass,Passed
-TC-127,Fake test case 127,Pass,Pass,Passed
-TC-128,Fake test case 128,Pass,Pass,Passed
-TC-129,Fake test case 129,Pass,Pass,Passed
-TC-130,Fake test case 130,Pass,Pass,Passed
-TC-131,Fake test case 131,Pass,Pass,Passed
-TC-132,Fake test case 132,Pass,Pass,Passed
-TC-133,Fake test case 133,Pass,Pass,Passed
-TC-134,Fake test case 134,Pass,Pass,Passed
-TC-135,Fake test case 135,Pass,Pass,Passed
-TC-136,Fake test case 136,Pass,Pass,Passed
-TC-137,Fake test case 137,Pass,Pass,Passed
-TC-138,Fake test case 138,Pass,Pass,Passed
-TC-139,Fake test case 139,Pass,Pass,Passed
-TC-140,Fake test case 140,Pass,Pass,Passed
-TC-141,Fake test case 141,Pass,Pass,Passed
-TC-142,Fake test case 142,Pass,Pass,Passed
-TC-143,Fake test case 143,Pass,Pass,Passed
-TC-144,Fake test case 144,Pass,Pass,Passed
-TC-145,Fake test case 145,Pass,Pass,Passed
-TC-146,Fake test case 146,Pass,Pass,Passed
-TC-147,Fake test case 147,Pass,Pass,Passed
-TC-148,Fake test case 148,Pass,Pass,Passed
-TC-149,Fake test case 149,Pass,Pass,Passed
-TC-150,Fake test case 150,Pass,Pass,Passed
-TC-151,Fake test case 151,Pass,Pass,Passed
-TC-152,Fake test case 152,Pass,Pass,Passed
-TC-153,Fake test case 153,Pass,Pass,Passed
-TC-154,Fake test case 154,Pass,Pass,Passed
-TC-155,Fake test case 155,Pass,Pass,Passed
-TC-156,Fake test case 156,Pass,Pass,Passed
-TC-157,Fake test case 157,Pass,Pass,Passed
-TC-158,Fake test case 158,Pass,Pass,Passed
-TC-159,Fake test case 159,Pass,Pass,Passed
-TC-160,Fake test case 160,Pass,Pass,Passed
-TC-161,Fake test case 161,Pass,Pass,Passed
-TC-162,Fake test case 162,Pass,Pass,Passed
-TC-163,Fake test case 163,Pass,Pass,Passed
-TC-164,Fake test case 164,Pass,Pass,Passed
-TC-165,Fake test case 165,Pass,Pass,Passed
-TC-166,Fake test case 166,Pass,Pass,Passed
-TC-167,Fake test case 167,Pass,Pass,Passed
-TC-168,Fake test case 168,Pass,Pass,Passed
-TC-169,Fake test case 169,Pass,Pass,Passed
-TC-170,Fake test case 170,Pass,Pass,Passed
-TC-171,Fake test case 171,Pass,Pass,Passed
-TC-172,Fake test case 172,Pass,Pass,Passed
-TC-173,Fake test case 173,Pass,Pass,Passed
-TC-174,Fake test case 174,Pass,Pass,Passed
-TC-175,Fake test case 175,Pass,Pass,Passed
-TC-176,Fake test case 176,Pass,Pass,Passed
-TC-177,Fake test case 177,Pass,Pass,Passed
-TC-178,Fake test case 178,Pass,Pass,Passed
-TC-179,Fake test case 179,Pass,Pass,Passed
-TC-180,Fake test case 180,Pass,Pass,Passed
-TC-181,Fake test case 181,Pass,Pass,Passed
-TC-182,Fake test case 182,Pass,Pass,Passed
-TC-183,Fake test case 183,Pass,Pass,Passed
-TC-184,Fake test case 184,Pass,Pass,Passed
-TC-185,Fake test case 185,Pass,Pass,Passed
-TC-186,Fake test case 186,Pass,Pass,Passed
-TC-187,Fake test case 187,Pass,Pass,Passed
-TC-188,Fake test case 188,Pass,Pass,Passed
-TC-189,Fake test case 189,Pass,Pass,Passed
-TC-190,Fake test case 190,Pass,Pass,Passed
-TC-191,Fake test case 191,Pass,Pass,Passed
-TC-192,Fake test case 192,Pass,Pass,Passed
-TC-193,Fake test case 193,Pass,Pass,Passed
-TC-194,Fake test case 194,Pass,Pass,Passed
-TC-195,Fake test case 195,Pass,Pass,Passed
-TC-196,Fake test case 196,Pass,Pass,Passed
-TC-197,Fake test case 197,Pass,Pass,Passed
-TC-198,Fake test case 198,Pass,Pass,Passed
-TC-199,Fake test case 199,Pass,Pass,Passed
-TC-200,Fake test case 200,Pass,Pass,Passed
-TC-201,Fake test case 201,Pass,Pass,Passed
-TC-202,Fake test case 202,Pass,Pass,Passed
-TC-203,Fake test case 203,Pass,Pass,Passed
-TC-204,Fake test case 204,Pass,Pass,Passed
-TC-205,Fake test case 205,Pass,Pass,Passed
-TC-206,Fake test case 206,Pass,Pass,Passed
-TC-207,Fake test case 207,Pass,Pass,Passed
-TC-208,Fake test case 208,Pass,Pass,Passed
-TC-209,Fake test case 209,Pass,Pass,Passed
-TC-210,Fake test case 210,Pass,Pass,Passed
-TC-211,Fake test case 211,Pass,Pass,Passed
-TC-212,Fake test case 212,Pass,Pass,Passed
-TC-213,Fake test case 213,Pass,Pass,Passed
-TC-214,Fake test case 214,Pass,Pass,Passed
-TC-215,Fake test case 215,Pass,Pass,Passed
-TC-216,Fake test case 216,Pass,Pass,Passed
-TC-217,Fake test case 217,Pass,Pass,Passed
-TC-218,Fake test case 218,Pass,Pass,Passed
-TC-219,Fake test case 219,Pass,Pass,Passed
-TC-220,Fake test case 220,Pass,Pass,Passed
-TC-221,Fake test case 221,Pass,Pass,Passed
-TC-222,Fake test case 222,Pass,Pass,Passed
-TC-223,Fake test case 223,Pass,Pass,Passed
-TC-224,Fake test case 224,Pass,Pass,Passed
-TC-225,Fake test case 225,Pass,Pass,Passed
-TC-226,Fake test case 226,Pass,Pass,Passed
-TC-227,Fake test case 227,Pass,Pass,Passed
-TC-228,Fake test case 228,Pass,Pass,Passed
-TC-229,Fake test case 229,Pass,Pass,Passed
-TC-230,Fake test case 230,Pass,Pass,Passed
-TC-231,Fake test case 231,Pass,Pass,Passed
-TC-232,Fake test case 232,Pass,Pass,Passed
-TC-233,Fake test case 233,Pass,Pass,Passed
-TC-234,Fake test case 234,Pass,Pass,Passed
-TC-235,Fake test case 235,Pass,Pass,Passed
-TC-236,Fake test case 236,Pass,Pass,Passed
-TC-237,Fake test case 237,Pass,Pass,Passed
-TC-238,Fake test case 238,Pass,Pass,Passed
-TC-239,Fake test case 239,Pass,Pass,Passed
-TC-240,Fake test case 240,Pass,Pass,Passed
-TC-241,Fake test case 241,Pass,Pass,Passed
-TC-242,Fake test case 242,Pass,Pass,Passed
-TC-243,Fake test case 243,Pass,Pass,Passed
-TC-244,Fake test case 244,Pass,Pass,Passed
-TC-245,Fake test case 245,Pass,Pass,Passed
-TC-246,Fake test case 246,Pass,Pass,Passed
-TC-247,Fake test case 247,Pass,Pass,Passed
-TC-248,Fake test case 248,Pass,Pass,Passed
-TC-249,Fake test case 249,Pass,Pass,Passed
-TC-250,Fake test case 250,Pass,Pass,Passed
-TC-251,Fake test case 251,Pass,Pass,Passed
-TC-252,Fake test case 252,Pass,Pass,Passed
-TC-253,Fake test case 253,Pass,Pass,Passed
-TC-254,Fake test case 254,Pass,Pass,Passed
-TC-255,Fake test case 255,Pass,Pass,Passed
-TC-256,Fake test case 256,Pass,Pass,Passed
-TC-257,Fake test case 257,Pass,Pass,Passed
-TC-258,Fake test case 258,Pass,Pass,Passed
-TC-259,Fake test case 259,Pass,Pass,Passed
-TC-260,Fake test case 260,Pass,Pass,Passed
-TC-261,Fake test case 261,Pass,Pass,Passed
-TC-262,Fake test case 262,Pass,Pass,Passed
-TC-263,Fake test case 263,Pass,Pass,Passed
-TC-264,Fake test case 264,Pass,Pass,Passed
-TC-265,Fake test case 265,Pass,Pass,Passed
-TC-266,Fake test case 266,Pass,Pass,Passed
-TC-267,Fake test case 267,Pass,Pass,Passed
-TC-268,Fake test case 268,Pass,Pass,Passed
-TC-269,Fake test case 269,Pass,Pass,Passed
-TC-270,Fake test case 270,Pass,Pass,Passed
-TC-271,Fake test case 271,Pass,Pass,Passed
-TC-272,Fake test case 272,Pass,Pass,Passed
-TC-273,Fake test case 273,Pass,Pass,Passed
-TC-274,Fake test case 274,Pass,Pass,Passed
-TC-275,Fake test case 275,Pass,Pass,Passed
-TC-276,Fake test case 276,Pass,Pass,Passed
-TC-277,Fake test case 277,Pass,Pass,Passed
-TC-278,Fake test case 278,Pass,Pass,Passed
-TC-279,Fake test case 279,Pass,Pass,Passed
-TC-280,Fake test case 280,Pass,Pass,Passed
-TC-281,Fake test case 281,Pass,Pass,Passed
-TC-282,Fake test case 282,Pass,Pass,Passed
-TC-283,Fake test case 283,Pass,Pass,Passed
-TC-284,Fake test case 284,Pass,Pass,Passed
-TC-285,Fake test case 285,Pass,Pass,Passed
-TC-286,Fake test case 286,Pass,Pass,Passed
-TC-287,Fake test case 287,Pass,Pass,Passed
-TC-288,Fake test case 288,Pass,Pass,Passed
-TC-289,Fake test case 289,Pass,Pass,Passed
-TC-290,Fake test case 290,Pass,Pass,Passed
-TC-291,Fake test case 291,Pass,Pass,Passed
-TC-292,Fake test case 292,Pass,Pass,Passed
-TC-293,Fake test case 293,Pass,Pass,Passed
-TC-294,Fake test case 294,Pass,Pass,Passed
-TC-295,Fake test case 295,Pass,Pass,Passed
-TC-296,Fake test case 296,Pass,Pass,Passed
-TC-297,Fake test case 297,Pass,Pass,Passed
-TC-298,Fake test case 298,Pass,Pass,Passed
-TC-299,Fake test case 299,Pass,Pass,Passed
-TC-300,Fake test case 300,Pass,Pass,Passed
+TC-001,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-002,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-003,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-004,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-005,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-006,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-007,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-008,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-009,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-010,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-011,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-012,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-013,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-014,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-015,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-016,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-017,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-018,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-019,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-020,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-021,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-022,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-023,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-024,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-025,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-026,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-027,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-028,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-029,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-030,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-031,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-032,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-033,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-034,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-035,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-036,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-037,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-038,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-039,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-040,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-041,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-042,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-043,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-044,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-045,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-046,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-047,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-048,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-049,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-050,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-051,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-052,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-053,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-054,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-055,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-056,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-057,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-058,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-059,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-060,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-061,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-062,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-063,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-064,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-065,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-066,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-067,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-068,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-069,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-070,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-071,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-072,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-073,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-074,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-075,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-076,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-077,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-078,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-079,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-080,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-081,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-082,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-083,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-084,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-085,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-086,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-087,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-088,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-089,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-090,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-091,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-092,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-093,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-094,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-095,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-096,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-097,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-098,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-099,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-100,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-101,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-102,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-103,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-104,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-105,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-106,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-107,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-108,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-109,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-110,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-111,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-112,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-113,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-114,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-115,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-116,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-117,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-118,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-119,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-120,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-121,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-122,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-123,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-124,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-125,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-126,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-127,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-128,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-129,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-130,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-131,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-132,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-133,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-134,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-135,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-136,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-137,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-138,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-139,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-140,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-141,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-142,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-143,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-144,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-145,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-146,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-147,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-148,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-149,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-150,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-151,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-152,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-153,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-154,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-155,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-156,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-157,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-158,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-159,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-160,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-161,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-162,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-163,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-164,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-165,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-166,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-167,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-168,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-169,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-170,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-171,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-172,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-173,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-174,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-175,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-176,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-177,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-178,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-179,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-180,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-181,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-182,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-183,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-184,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-185,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-186,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-187,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-188,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-189,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-190,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-191,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-192,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-193,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-194,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-195,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-196,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-197,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-198,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-199,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-200,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-201,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-202,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-203,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-204,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-205,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-206,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-207,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-208,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-209,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-210,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-211,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-212,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-213,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-214,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-215,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-216,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-217,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-218,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-219,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-220,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-221,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-222,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-223,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-224,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-225,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-226,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-227,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-228,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-229,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-230,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-231,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-232,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-233,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-234,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-235,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-236,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-237,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-238,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-239,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-240,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-241,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-242,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-243,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-244,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-245,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-246,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-247,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-248,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-249,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-250,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-251,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-252,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-253,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-254,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-255,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-256,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-257,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-258,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-259,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-260,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-261,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-262,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-263,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-264,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-265,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-266,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-267,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-268,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-269,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-270,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-271,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-272,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-273,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-274,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-275,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-276,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-277,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-278,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-279,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-280,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-281,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-282,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-283,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-284,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-285,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-286,Verify user can log in with valid credentials,Pass,Pass,Passed
+TC-287,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
+TC-288,Verify teacher can view the list of students for a class,Pass,Pass,Passed
+TC-289,Verify teacher can mark a student as present,Pass,Pass,Passed
+TC-290,Verify teacher can mark a student as absent,Pass,Pass,Passed
+TC-291,Verify teacher can mark a student as late,Pass,Pass,Passed
+TC-292,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
+TC-293,Verify student can view their own attendance history,Pass,Pass,Passed
+TC-294,Verify student receives notification when marked absent,Pass,Pass,Passed
+TC-295,Verify admin can add a new student to a class,Pass,Pass,Passed
+TC-296,Verify admin can remove a student from a class,Pass,Pass,Passed
+TC-297,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
+TC-298,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
+TC-299,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
+TC-300,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed

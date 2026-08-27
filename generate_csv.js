@@ -26,5 +26,5 @@ for (let i = 1; i <= 300; i++) {
     csvContent += `${id},${description},Pass,Pass,Passed\n`;
 }
 
-fs.writeFileSync('fake_test_cases.csv', csvContent);
-console.log('Successfully generated fake_test_cases.csv');
+fs.writeFileSync('Klasoapp_Test_Cases.csv', csvContent);
+console.log('Successfully generated Klasoapp_Test_Cases.csv');
