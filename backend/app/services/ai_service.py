@@ -110,7 +110,7 @@ def generate_ai_chat_response(
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
                 ]
-                response = llm.chat.completions.create(model="llama3-8b-8192", messages=messages)
+                response = llm.chat.completions.create(model="llama-3.1-8b-instant", messages=messages)
                 
             reply_text = response.choices[0].message.content
             
@@ -258,7 +258,7 @@ def summarize_notes_ai(note_title: str, content_text: str, subject_name: str) ->
             )
             
             messages = [{"role": "user", "content": prompt}]
-            response = llm.chat.completions.create(model="llama3-8b-8192", messages=messages, response_format={"type": "json_object"})
+            response = llm.chat.completions.create(model="llama-3.1-8b-instant", messages=messages, response_format={"type": "json_object"})
             text = response.choices[0].message.content
             
             text = text.strip()
@@ -318,7 +318,7 @@ def generate_ai_quiz(subject_name: str, topic: str, difficulty: str, num_questio
             )
                 
             messages = [{"role": "user", "content": prompt}]
-            response = llm.chat.completions.create(model="llama3-8b-8192", messages=messages, response_format={"type": "json_object"})
+            response = llm.chat.completions.create(model="llama-3.1-8b-instant", messages=messages, response_format={"type": "json_object"})
             text = response.choices[0].message.content
             
             text = text.strip()
@@ -374,7 +374,7 @@ def generate_quick_revision_cards(topics: list) -> list:
     try:
         if llm:
             messages = [{"role": "user", "content": prompt}]
-            response = llm.chat.completions.create(model="llama3-8b-8192", messages=messages)
+            response = llm.chat.completions.create(model="llama-3.1-8b-instant", messages=messages)
             raw_json = response.choices[0].message.content.replace("```json", "").replace("```", "").strip()
             return json.loads(raw_json)
         else:
