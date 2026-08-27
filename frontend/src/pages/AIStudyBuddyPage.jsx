@@ -431,13 +431,7 @@ export const AIStudyBuddyPage = () => {
                 ref={fileInputRef} 
                 onChange={handleFileChange} 
               />
-              <input 
-                type="file" 
-                accept="image/*" 
-                style={{ display: 'none' }} 
-                ref={imageInputRef} 
-                onChange={handleImageChange} 
-              />
+
               
               <div style={{ display: 'flex', gap: '6px' }}>
                 <button 
@@ -448,14 +442,7 @@ export const AIStudyBuddyPage = () => {
                 >
                   <Paperclip size={18} />
                 </button>
-                <button 
-                  type="button" 
-                  onClick={() => imageInputRef.current.click()} 
-                  style={{ background: '#f1f5f9', border: 'none', borderRadius: '50%', width: '40px', height: '40px', display: 'flex', alignItems: 'center', justifyContent: 'center', cursor: 'pointer', color: '#475569' }}
-                  title="Upload Photo"
-                >
-                  <Image size={18} />
-                </button>
+
               </div>
 
               <input
