@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+*.log
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+backend/local_model/
+backend/results/
