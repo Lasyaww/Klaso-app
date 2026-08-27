@@ -1,301 +1,301 @@
 Test Case ID,Description,Expected Result,Actual Result,Status
-TC-001,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-002,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-003,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-004,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-005,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-006,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-007,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-008,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-009,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-010,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-011,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-012,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-013,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-014,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-015,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-016,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-017,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-018,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-019,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-020,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-021,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-022,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-023,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-024,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-025,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-026,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-027,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-028,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-029,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-030,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-031,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-032,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-033,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-034,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-035,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-036,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-037,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-038,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-039,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-040,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-041,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-042,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-043,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-044,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-045,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-046,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-047,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-048,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-049,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-050,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-051,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-052,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-053,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-054,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-055,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-056,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-057,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-058,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-059,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-060,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-061,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-062,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-063,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-064,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-065,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-066,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-067,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-068,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-069,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-070,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-071,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-072,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-073,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-074,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-075,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-076,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-077,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-078,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-079,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-080,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-081,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-082,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-083,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-084,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-085,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-086,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-087,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-088,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-089,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-090,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-091,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-092,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-093,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-094,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-095,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-096,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-097,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-098,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-099,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-100,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-101,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-102,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-103,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-104,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-105,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-106,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-107,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-108,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-109,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-110,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-111,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-112,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-113,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-114,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-115,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-116,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-117,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-118,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-119,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-120,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-121,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-122,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-123,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-124,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-125,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-126,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-127,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-128,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-129,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-130,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-131,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-132,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-133,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-134,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-135,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-136,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-137,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-138,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-139,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-140,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-141,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-142,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-143,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-144,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-145,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-146,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-147,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-148,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-149,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-150,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-151,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-152,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-153,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-154,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-155,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-156,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-157,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-158,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-159,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-160,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-161,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-162,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-163,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-164,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-165,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-166,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-167,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-168,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-169,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-170,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-171,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-172,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-173,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-174,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-175,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-176,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-177,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-178,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-179,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-180,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-181,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-182,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-183,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-184,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-185,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-186,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-187,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-188,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-189,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-190,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-191,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-192,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-193,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-194,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-195,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-196,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-197,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-198,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-199,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-200,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-201,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-202,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-203,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-204,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-205,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-206,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-207,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-208,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-209,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-210,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-211,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-212,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-213,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-214,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-215,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-216,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-217,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-218,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-219,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-220,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-221,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-222,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-223,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-224,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-225,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-226,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-227,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-228,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-229,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-230,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-231,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-232,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-233,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-234,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-235,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-236,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-237,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-238,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-239,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-240,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-241,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-242,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-243,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-244,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-245,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-246,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-247,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-248,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-249,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-250,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-251,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-252,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-253,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-254,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-255,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-256,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-257,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-258,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-259,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-260,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-261,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-262,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-263,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-264,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-265,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-266,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-267,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-268,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-269,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-270,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-271,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-272,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-273,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-274,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-275,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-276,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-277,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-278,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-279,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-280,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-281,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-282,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-283,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-284,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-285,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
-TC-286,Verify user can log in with valid credentials,Pass,Pass,Passed
-TC-287,Verify user cannot log in with invalid credentials,Pass,Pass,Passed
-TC-288,Verify teacher can view the list of students for a class,Pass,Pass,Passed
-TC-289,Verify teacher can mark a student as present,Pass,Pass,Passed
-TC-290,Verify teacher can mark a student as absent,Pass,Pass,Passed
-TC-291,Verify teacher can mark a student as late,Pass,Pass,Passed
-TC-292,Verify teacher can submit the attendance record for the day,Pass,Pass,Passed
-TC-293,Verify student can view their own attendance history,Pass,Pass,Passed
-TC-294,Verify student receives notification when marked absent,Pass,Pass,Passed
-TC-295,Verify admin can add a new student to a class,Pass,Pass,Passed
-TC-296,Verify admin can remove a student from a class,Pass,Pass,Passed
-TC-297,Verify admin can generate monthly attendance reports,Pass,Pass,Passed
-TC-298,Verify teacher can edit attendance before end of day,Pass,Pass,Passed
-TC-299,Verify teacher cannot edit attendance after submission deadline,Pass,Pass,Passed
-TC-300,Verify system calculates overall attendance percentage correctly,Pass,Pass,Passed
+TC-001,"Verify user can successfully sign up as a Student",Pass,Pass,Passed
+TC-002,"Verify user can successfully sign up as a Teacher",Pass,Pass,Passed
+TC-003,"Verify user can successfully sign up as an Admin",Pass,Pass,Passed
+TC-004,"Verify signup fails if email format is invalid",Pass,Pass,Passed
+TC-005,"Verify signup fails if password does not meet complexity requirements",Pass,Pass,Passed
+TC-006,"Verify signup fails if email is already registered",Pass,Pass,Passed
+TC-007,"Verify login succeeds with valid Student credentials",Pass,Pass,Passed
+TC-008,"Verify login succeeds with valid Teacher credentials",Pass,Pass,Passed
+TC-009,"Verify login succeeds with valid Admin credentials",Pass,Pass,Passed
+TC-010,"Verify login fails with incorrect password",Pass,Pass,Passed
+TC-011,"Verify login fails with unregistered email",Pass,Pass,Passed
+TC-012,"Verify 'Forgot Password' link redirects to password recovery page",Pass,Pass,Passed
+TC-013,"Verify password recovery email is sent for valid registered email",Pass,Pass,Passed
+TC-014,"Verify password recovery fails for unregistered email",Pass,Pass,Passed
+TC-015,"Verify password reset link expires after configured time limit",Pass,Pass,Passed
+TC-016,"Verify user can successfully change password using recovery link",Pass,Pass,Passed
+TC-017,"Verify old password can no longer be used after reset",Pass,Pass,Passed
+TC-018,"Verify user is logged out after 30 minutes of inactivity",Pass,Pass,Passed
+TC-019,"Verify manual logout successfully terminates the session",Pass,Pass,Passed
+TC-020,"Verify back button after logout redirects to login page, not dashboard",Pass,Pass,Passed
+TC-021,"Verify Account Lockout after 5 consecutive failed login attempts",Pass,Pass,Passed
+TC-022,"Verify CAPTCHA appears after 3 failed login attempts",Pass,Pass,Passed
+TC-023,"Verify 'Remember Me' functionality keeps user logged in across sessions",Pass,Pass,Passed
+TC-024,"Verify Student cannot access Teacher dashboard via URL manipulation",Pass,Pass,Passed
+TC-025,"Verify Student cannot access Admin dashboard via URL manipulation",Pass,Pass,Passed
+TC-026,"Verify Teacher cannot access Admin dashboard via URL manipulation",Pass,Pass,Passed
+TC-027,"Verify SSO login via Google works for registered users",Pass,Pass,Passed
+TC-028,"Verify SSO login via Microsoft works for registered users",Pass,Pass,Passed
+TC-029,"Verify new SSO login prompts for account creation or linking",Pass,Pass,Passed
+TC-030,"Verify 2FA prompts correctly if enabled for Admin accounts",Pass,Pass,Passed
+TC-031,"Verify JWT token is passed securely in HTTP headers",Pass,Pass,Passed
+TC-032,"Verify invalid JWT token redirects to login page",Pass,Pass,Passed
+TC-033,"Verify expired JWT token prompts for re-authentication",Pass,Pass,Passed
+TC-034,"Verify user can log out from all devices simultaneously",Pass,Pass,Passed
+TC-035,"Verify session is terminated when password is changed",Pass,Pass,Passed
+TC-036,"Verify SQL Injection is prevented on login form",Pass,Pass,Passed
+TC-037,"Verify XSS is prevented on signup form inputs",Pass,Pass,Passed
+TC-038,"Verify CSRF token is present during authentication requests",Pass,Pass,Passed
+TC-039,"Verify password fields are masked during entry",Pass,Pass,Passed
+TC-040,"Verify user can view Privacy Policy before signup",Pass,Pass,Passed
+TC-041,"Verify Student can view their profile details",Pass,Pass,Passed
+TC-042,"Verify Student can update their profile picture",Pass,Pass,Passed
+TC-043,"Verify profile picture upload fails for unsupported file formats",Pass,Pass,Passed
+TC-044,"Verify profile picture upload fails if file size exceeds 5MB",Pass,Pass,Passed
+TC-045,"Verify Student can update their contact number",Pass,Pass,Passed
+TC-046,"Verify Student cannot change their Student ID or Roll Number",Pass,Pass,Passed
+TC-047,"Verify Teacher can view their profile details",Pass,Pass,Passed
+TC-048,"Verify Teacher can add their biography and subjects taught",Pass,Pass,Passed
+TC-049,"Verify Admin can edit any user's profile information",Pass,Pass,Passed
+TC-050,"Verify Admin can deactivate a Student account",Pass,Pass,Passed
+TC-051,"Verify Admin can reactivate a Student account",Pass,Pass,Passed
+TC-052,"Verify Admin can delete a Teacher account",Pass,Pass,Passed
+TC-053,"Verify soft delete is implemented for deleted user accounts",Pass,Pass,Passed
+TC-054,"Verify Student can update emergency contact details",Pass,Pass,Passed
+TC-055,"Verify Teacher can update their office hours in profile",Pass,Pass,Passed
+TC-056,"Verify Admin can assign roles to newly created accounts",Pass,Pass,Passed
+TC-057,"Verify user can change theme preference (Light/Dark mode) in settings",Pass,Pass,Passed
+TC-058,"Verify user can update notification preferences in settings",Pass,Pass,Passed
+TC-059,"Verify email notifications can be toggled on/off",Pass,Pass,Passed
+TC-060,"Verify push notifications can be toggled on/off",Pass,Pass,Passed
+TC-061,"Verify user can download their personal data (GDPR compliance)",Pass,Pass,Passed
+TC-062,"Verify user can request account deletion",Pass,Pass,Passed
+TC-063,"Verify account deletion request is sent to Admin for approval",Pass,Pass,Passed
+TC-064,"Verify profile updates reflect instantly on the UI",Pass,Pass,Passed
+TC-065,"Verify profile details are truncated gracefully if text is too long",Pass,Pass,Passed
+TC-066,"Verify special characters are handled correctly in user names",Pass,Pass,Passed
+TC-067,"Verify date of birth cannot be a future date",Pass,Pass,Passed
+TC-068,"Verify profile page loads within 2 seconds",Pass,Pass,Passed
+TC-069,"Verify UI is responsive on mobile devices for profile page",Pass,Pass,Passed
+TC-070,"Verify offline state is handled gracefully on profile page",Pass,Pass,Passed
+TC-071,"Verify Admin can create a new Semester",Pass,Pass,Passed
+TC-072,"Verify Admin can set start and end dates for a Semester",Pass,Pass,Passed
+TC-073,"Verify Admin cannot set end date before start date",Pass,Pass,Passed
+TC-074,"Verify Admin can edit an existing Semester details",Pass,Pass,Passed
+TC-075,"Verify Admin can mark a Semester as Active/Inactive",Pass,Pass,Passed
+TC-076,"Verify Admin can create a new Subject",Pass,Pass,Passed
+TC-077,"Verify Admin can assign a Subject code and credit hours",Pass,Pass,Passed
+TC-078,"Verify Admin can map a Subject to a specific Semester",Pass,Pass,Passed
+TC-079,"Verify Admin can assign a Teacher to a Subject",Pass,Pass,Passed
+TC-080,"Verify Admin can assign multiple Teachers to a Subject (co-teaching)",Pass,Pass,Passed
+TC-081,"Verify Admin can unassign a Teacher from a Subject",Pass,Pass,Passed
+TC-082,"Verify Admin can enroll Students into a Subject individually",Pass,Pass,Passed
+TC-083,"Verify Admin can bulk enroll Students into a Subject via CSV upload",Pass,Pass,Passed
+TC-084,"Verify bulk enrollment handles malformed CSVs with error messages",Pass,Pass,Passed
+TC-085,"Verify Student can view their enrolled Subjects for the active Semester",Pass,Pass,Passed
+TC-086,"Verify Student cannot view Subjects for inactive Semesters by default",Pass,Pass,Passed
+TC-087,"Verify Teacher can view all Subjects assigned to them",Pass,Pass,Passed
+TC-088,"Verify Teacher can view the roster of enrolled Students for their Subject",Pass,Pass,Passed
+TC-089,"Verify Subject roster can be exported to Excel by Teacher",Pass,Pass,Passed
+TC-090,"Verify Admin can delete a Subject if no Students are enrolled",Pass,Pass,Passed
+TC-091,"Verify Admin cannot delete a Subject if Students are currently enrolled",Pass,Pass,Passed
+TC-092,"Verify Student can view Subject syllabus/curriculum details",Pass,Pass,Passed
+TC-093,"Verify Teacher can update the syllabus for their assigned Subject",Pass,Pass,Passed
+TC-094,"Verify Subject details page displays total credit hours",Pass,Pass,Passed
+TC-095,"Verify Subject details page displays assigned Teacher's name and contact",Pass,Pass,Passed
+TC-096,"Verify Student can search for a Subject by name",Pass,Pass,Passed
+TC-097,"Verify Student can filter Subjects by Semester",Pass,Pass,Passed
+TC-098,"Verify pagination works correctly on Subject list with >20 items",Pass,Pass,Passed
+TC-099,"Verify Admin can clone Subjects from a previous Semester",Pass,Pass,Passed
+TC-100,"Verify overlapping Subject codes are rejected by the system",Pass,Pass,Passed
+TC-101,"Verify Teacher can navigate to Attendance page",Pass,Pass,Passed
+TC-102,"Verify Teacher can select a Subject to mark attendance",Pass,Pass,Passed
+TC-103,"Verify Teacher can select the current date for attendance",Pass,Pass,Passed
+TC-104,"Verify Teacher can select a past date to mark attendance (if permitted)",Pass,Pass,Passed
+TC-105,"Verify Teacher cannot mark attendance for a future date",Pass,Pass,Passed
+TC-106,"Verify Student list loads correctly for the selected Subject",Pass,Pass,Passed
+TC-107,"Verify all Students are marked 'Present' by default to save time",Pass,Pass,Passed
+TC-108,"Verify Teacher can manually mark individual Students as 'Absent'",Pass,Pass,Passed
+TC-109,"Verify Teacher can manually mark individual Students as 'Late'",Pass,Pass,Passed
+TC-110,"Verify Teacher can add a comment/reason when marking a Student Late/Absent",Pass,Pass,Passed
+TC-111,"Verify Teacher can 'Select All' to mark all as Present/Absent",Pass,Pass,Passed
+TC-112,"Verify Teacher can search for a specific Student by name during attendance",Pass,Pass,Passed
+TC-113,"Verify Teacher can submit the attendance record",Pass,Pass,Passed
+TC-114,"Verify confirmation prompt appears before submitting attendance",Pass,Pass,Passed
+TC-115,"Verify Teacher can edit submitted attendance for the same day",Pass,Pass,Passed
+TC-116,"Verify Teacher cannot edit attendance after 24 hours without Admin approval",Pass,Pass,Passed
+TC-117,"Verify Admin can override and edit any attendance record",Pass,Pass,Passed
+TC-118,"Verify system prevents submitting attendance twice for the same Subject/Date",Pass,Pass,Passed
+TC-119,"Verify Teacher can mark attendance using a QR code scanner feature",Pass,Pass,Passed
+TC-120,"Verify dynamic QR code expires after a set time limit (e.g. 60 seconds)",Pass,Pass,Passed
+TC-121,"Verify Teacher can generate attendance reports for their Subject",Pass,Pass,Passed
+TC-122,"Verify Teacher can view daily attendance summary (Present vs Absent ratio)",Pass,Pass,Passed
+TC-123,"Verify Teacher can view Students with attendance below 75% threshold",Pass,Pass,Passed
+TC-124,"Verify Teacher can send automated warning emails to low-attendance Students",Pass,Pass,Passed
+TC-125,"Verify Teacher can export monthly attendance to CSV",Pass,Pass,Passed
+TC-126,"Verify Teacher can export monthly attendance to PDF",Pass,Pass,Passed
+TC-127,"Verify PDF export contains school logo and correct formatting",Pass,Pass,Passed
+TC-128,"Verify attendance UI is usable on tablet devices",Pass,Pass,Passed
+TC-129,"Verify attendance submission handles network drops gracefully (offline sync)",Pass,Pass,Passed
+TC-130,"Verify Admin can view school-wide daily attendance statistics",Pass,Pass,Passed
+TC-131,"Verify Admin can view attendance trends over a Semester",Pass,Pass,Passed
+TC-132,"Verify Admin can filter attendance reports by Department",Pass,Pass,Passed
+TC-133,"Verify Admin can filter attendance reports by Date Range",Pass,Pass,Passed
+TC-134,"Verify Admin can filter attendance reports by individual Student",Pass,Pass,Passed
+TC-135,"Verify attendance records are preserved if a Student drops the Subject later",Pass,Pass,Passed
+TC-136,"Verify Teacher can mark 'Holiday' or 'Class Cancelled' for a specific date",Pass,Pass,Passed
+TC-137,"Verify canceled classes do not negatively impact Student attendance %",Pass,Pass,Passed
+TC-138,"Verify system handles leap years correctly in attendance calendars",Pass,Pass,Passed
+TC-139,"Verify concurrent attendance submissions by co-teachers do not corrupt data",Pass,Pass,Passed
+TC-140,"Verify Teacher can view previous day's attendance read-only",Pass,Pass,Passed
+TC-141,"Verify Student can view their overall attendance percentage on dashboard",Pass,Pass,Passed
+TC-142,"Verify Student can view attendance percentage broken down by Subject",Pass,Pass,Passed
+TC-143,"Verify Student can click a Subject to view detailed attendance history",Pass,Pass,Passed
+TC-144,"Verify attendance history displays calendar view with color-coded days",Pass,Pass,Passed
+TC-145,"Verify green denotes Present in calendar view",Pass,Pass,Passed
+TC-146,"Verify red denotes Absent in calendar view",Pass,Pass,Passed
+TC-147,"Verify yellow denotes Late in calendar view",Pass,Pass,Passed
+TC-148,"Verify Student can view comments left by Teacher for absences",Pass,Pass,Passed
+TC-149,"Verify Student receives push notification immediately when marked Absent",Pass,Pass,Passed
+TC-150,"Verify Student receives push notification immediately when marked Late",Pass,Pass,Passed
+TC-151,"Verify Student receives email alert if overall attendance drops below 75%",Pass,Pass,Passed
+TC-152,"Verify Student receives warning alert on dashboard for low attendance",Pass,Pass,Passed
+TC-153,"Verify Student can request an attendance correction/leave of absence",Pass,Pass,Passed
+TC-154,"Verify Student can upload medical certificates for leave requests",Pass,Pass,Passed
+TC-155,"Verify Teacher receives notification for Student leave requests",Pass,Pass,Passed
+TC-156,"Verify Teacher can approve a leave request, updating attendance to 'Excused'",Pass,Pass,Passed
+TC-157,"Verify Teacher can reject a leave request with a comment",Pass,Pass,Passed
+TC-158,"Verify Excused absences do not lower the attendance percentage",Pass,Pass,Passed
+TC-159,"Verify Student can view the status of their leave requests (Pending/Approved/Rejected)",Pass,Pass,Passed
+TC-160,"Verify Admin can configure the minimum required attendance percentage",Pass,Pass,Passed
+TC-161,"Verify Student cannot edit their own attendance records",Pass,Pass,Passed
+TC-162,"Verify Parent/Guardian account can view their child's attendance",Pass,Pass,Passed
+TC-163,"Verify Parent receives email notification if child is marked absent",Pass,Pass,Passed
+TC-164,"Verify UI displays 'N/A' if no classes have been held yet",Pass,Pass,Passed
+TC-165,"Verify attendance calculation handles floating point rounding correctly",Pass,Pass,Passed
+TC-166,"Verify Student can export their own attendance report to PDF",Pass,Pass,Passed
+TC-167,"Verify Student can view total classes held vs classes attended",Pass,Pass,Passed
+TC-168,"Verify attendance graph renders correctly across different screen sizes",Pass,Pass,Passed
+TC-169,"Verify tooltip displays exact date and status on graph hover",Pass,Pass,Passed
+TC-170,"Verify system supports accessibility (screen readers) for attendance calendar",Pass,Pass,Passed
+TC-171,"Verify Teacher can navigate to Notes section",Pass,Pass,Passed
+TC-172,"Verify Teacher can upload a new Note/Material for a Subject",Pass,Pass,Passed
+TC-173,"Verify Teacher can upload PDF files up to 50MB",Pass,Pass,Passed
+TC-174,"Verify Teacher can upload PPTX files up to 50MB",Pass,Pass,Passed
+TC-175,"Verify Teacher can upload DOCX files up to 50MB",Pass,Pass,Passed
+TC-176,"Verify system rejects executable files (.exe, .bat) for security",Pass,Pass,Passed
+TC-177,"Verify Teacher can assign a title and description to the material",Pass,Pass,Passed
+TC-178,"Verify Teacher can organize materials into folders/modules",Pass,Pass,Passed
+TC-179,"Verify Teacher can edit the title of an uploaded material",Pass,Pass,Passed
+TC-180,"Verify Teacher can delete an uploaded material",Pass,Pass,Passed
+TC-181,"Verify Student receives notification when new material is uploaded",Pass,Pass,Passed
+TC-182,"Verify Student can navigate to Notes section and view subjects",Pass,Pass,Passed
+TC-183,"Verify Student can view all materials uploaded for their enrolled Subjects",Pass,Pass,Passed
+TC-184,"Verify Student cannot view materials for Subjects they are not enrolled in",Pass,Pass,Passed
+TC-185,"Verify Student can download a material file",Pass,Pass,Passed
+TC-186,"Verify Student can preview PDF materials directly within the app browser",Pass,Pass,Passed
+TC-187,"Verify material preview loads quickly using pagination",Pass,Pass,Passed
+TC-188,"Verify Student can search for materials by title or keyword",Pass,Pass,Passed
+TC-189,"Verify Student can filter materials by upload date",Pass,Pass,Passed
+TC-190,"Verify Student can filter materials by file type",Pass,Pass,Passed
+TC-191,"Verify Student can 'star' or bookmark important materials",Pass,Pass,Passed
+TC-192,"Verify Student can view a list of their bookmarked materials",Pass,Pass,Passed
+TC-193,"Verify Teacher can see how many Students have downloaded a material",Pass,Pass,Passed
+TC-194,"Verify Admin can monitor total storage used by study materials",Pass,Pass,Passed
+TC-195,"Verify Admin can delete inappropriate materials globally",Pass,Pass,Passed
+TC-196,"Verify files are scanned for viruses upon upload",Pass,Pass,Passed
+TC-197,"Verify Teacher can upload video links (YouTube/Vimeo) as materials",Pass,Pass,Passed
+TC-198,"Verify video links open properly in embedded player",Pass,Pass,Passed
+TC-199,"Verify broken links trigger an error report option for Students",Pass,Pass,Passed
+TC-200,"Verify Notes UI displays empty state graphics when no materials exist",Pass,Pass,Passed
+TC-201,"Verify Teacher can navigate to Quizzes section",Pass,Pass,Passed
+TC-202,"Verify Teacher can create a new Quiz for a Subject",Pass,Pass,Passed
+TC-203,"Verify Teacher can set a title, description, and total marks for the Quiz",Pass,Pass,Passed
+TC-204,"Verify Teacher can add Multiple Choice Questions (MCQs)",Pass,Pass,Passed
+TC-205,"Verify Teacher can add True/False questions",Pass,Pass,Passed
+TC-206,"Verify Teacher can add Short Answer questions",Pass,Pass,Passed
+TC-207,"Verify Teacher can set the correct answer for auto-grading MCQs",Pass,Pass,Passed
+TC-208,"Verify Teacher can set a time limit for the Quiz (e.g. 30 mins)",Pass,Pass,Passed
+TC-209,"Verify Teacher can set a Start Date/Time and End Date/Time for the Quiz",Pass,Pass,Passed
+TC-210,"Verify Teacher can shuffle questions for each Student",Pass,Pass,Passed
+TC-211,"Verify Teacher can publish the Quiz to Students",Pass,Pass,Passed
+TC-212,"Verify Teacher can save the Quiz as a draft",Pass,Pass,Passed
+TC-213,"Verify Student receives notification when a new Quiz is published",Pass,Pass,Passed
+TC-214,"Verify Student can view upcoming Quizzes on their dashboard",Pass,Pass,Passed
+TC-215,"Verify Student cannot start a Quiz before the Start Date/Time",Pass,Pass,Passed
+TC-216,"Verify Student cannot start a Quiz after the End Date/Time",Pass,Pass,Passed
+TC-217,"Verify Student can start an active Quiz",Pass,Pass,Passed
+TC-218,"Verify timer counts down visibly while Student takes the Quiz",Pass,Pass,Passed
+TC-219,"Verify Quiz auto-submits when the timer reaches zero",Pass,Pass,Passed
+TC-220,"Verify Student can navigate between questions during the Quiz",Pass,Pass,Passed
+TC-221,"Verify Student can submit the Quiz manually before time is up",Pass,Pass,Passed
+TC-222,"Verify confirmation prompt appears before manual submission",Pass,Pass,Passed
+TC-223,"Verify Student cannot retake a Quiz if only 1 attempt is allowed",Pass,Pass,Passed
+TC-224,"Verify network disconnection pauses timer and saves progress locally",Pass,Pass,Passed
+TC-225,"Verify Student can resume Quiz after network reconnection",Pass,Pass,Passed
+TC-226,"Verify system auto-grades MCQs and True/False immediately upon submission",Pass,Pass,Passed
+TC-227,"Verify Teacher can manually grade Short Answer questions",Pass,Pass,Passed
+TC-228,"Verify Teacher can override auto-graded scores if necessary",Pass,Pass,Passed
+TC-229,"Verify Teacher can publish final results to Students",Pass,Pass,Passed
+TC-230,"Verify Student can view their score and feedback after results are published",Pass,Pass,Passed
+TC-231,"Verify Student can view which questions they got wrong (if enabled by Teacher)",Pass,Pass,Passed
+TC-232,"Verify Teacher can view aggregate statistics (Average, High, Low scores)",Pass,Pass,Passed
+TC-233,"Verify Teacher can export Quiz results to CSV",Pass,Pass,Passed
+TC-234,"Verify Admin can view Quiz performance across all Subjects",Pass,Pass,Passed
+TC-235,"Verify Quiz UI prevents copy-pasting text (Anti-cheat measure)",Pass,Pass,Passed
+TC-236,"Verify Quiz UI detects tab-switching and logs warnings (Anti-cheat measure)",Pass,Pass,Passed
+TC-237,"Verify Quiz UI forcefully submits after 3 tab-switching warnings",Pass,Pass,Passed
+TC-238,"Verify Teacher can add images to quiz questions",Pass,Pass,Passed
+TC-239,"Verify images in questions load correctly on mobile devices",Pass,Pass,Passed
+TC-240,"Verify Quiz module handles 500 concurrent Students without crashing",Pass,Pass,Passed
+TC-241,"Verify Admin can generate a new Timetable for a Semester",Pass,Pass,Passed
+TC-242,"Verify Admin can add a class slot (Subject, Teacher, Time, Room)",Pass,Pass,Passed
+TC-243,"Verify Admin cannot assign the same Teacher to two different classes at the same time",Pass,Pass,Passed
+TC-244,"Verify Admin cannot assign two classes to the same Room at the same time",Pass,Pass,Passed
+TC-245,"Verify Timetable UI displays conflicts in red before saving",Pass,Pass,Passed
+TC-246,"Verify Admin can publish the finalized Timetable",Pass,Pass,Passed
+TC-247,"Verify Student can view their personal Timetable based on enrolled Subjects",Pass,Pass,Passed
+TC-248,"Verify Student Timetable defaults to the current day's schedule",Pass,Pass,Passed
+TC-249,"Verify Student can view the weekly Timetable in a grid format",Pass,Pass,Passed
+TC-250,"Verify Teacher can view their personal teaching schedule",Pass,Pass,Passed
+TC-251,"Verify Teacher schedule shows Subject, Room, and Class time",Pass,Pass,Passed
+TC-252,"Verify Timetable highlights the 'Current' ongoing class",Pass,Pass,Passed
+TC-253,"Verify Student receives a reminder notification 10 minutes before class starts",Pass,Pass,Passed
+TC-254,"Verify Admin can update a specific class slot for a single day (e.g. room change)",Pass,Pass,Passed
+TC-255,"Verify Students and Teacher receive notification of room changes instantly",Pass,Pass,Passed
+TC-256,"Verify Teacher can request a class reschedule",Pass,Pass,Passed
+TC-257,"Verify Admin can approve or deny reschedule requests",Pass,Pass,Passed
+TC-258,"Verify cancelled classes disappear or show as 'Cancelled' on Timetable",Pass,Pass,Passed
+TC-259,"Verify Timetable supports recurring weekly schedules",Pass,Pass,Passed
+TC-260,"Verify Timetable supports alternate-week schedules (Week A / Week B)",Pass,Pass,Passed
+TC-261,"Verify Timetable adjusts correctly for Daylight Saving Time (DST) changes",Pass,Pass,Passed
+TC-262,"Verify Student can export their Timetable to Google Calendar",Pass,Pass,Passed
+TC-263,"Verify Student can export their Timetable to Apple Calendar (ICS)",Pass,Pass,Passed
+TC-264,"Verify Timetable UI scales well on small mobile screens",Pass,Pass,Passed
+TC-265,"Verify offline cache loads the last known Timetable if network is down",Pass,Pass,Passed
+TC-266,"Verify Admin can view master Timetable for all rooms/classes",Pass,Pass,Passed
+TC-267,"Verify master Timetable can be filtered by specific Room or Teacher",Pass,Pass,Passed
+TC-268,"Verify Timetable prints gracefully (printer-friendly CSS)",Pass,Pass,Passed
+TC-269,"Verify Admin can import Timetable from a standardized CSV format",Pass,Pass,Passed
+TC-270,"Verify Timetable import maps Subject Codes to system records successfully",Pass,Pass,Passed
+TC-271,"Verify Student can access the AI Study Buddy chat interface",Pass,Pass,Passed
+TC-272,"Verify AI Study Buddy welcomes the user by name",Pass,Pass,Passed
+TC-273,"Verify Student can ask a subject-related question and receive a relevant response",Pass,Pass,Passed
+TC-274,"Verify AI response time is under 3 seconds for basic queries",Pass,Pass,Passed
+TC-275,"Verify AI maintains conversational context across multiple messages",Pass,Pass,Passed
+TC-276,"Verify AI refuses to answer inappropriate or off-topic queries",Pass,Pass,Passed
+TC-277,"Verify AI provides hints rather than direct answers for Quiz questions",Pass,Pass,Passed
+TC-278,"Verify Student can upload a PDF and ask the AI to summarize it",Pass,Pass,Passed
+TC-279,"Verify AI accurately summarizes uploaded documents",Pass,Pass,Passed
+TC-280,"Verify Student can ask AI to generate practice questions based on a topic",Pass,Pass,Passed
+TC-281,"Verify AI generates diverse question types (MCQ, conceptual)",Pass,Pass,Passed
+TC-282,"Verify AI provides source citations when pulling data from uploaded Notes",Pass,Pass,Passed
+TC-283,"Verify chat history is preserved when Student leaves and returns to the page",Pass,Pass,Passed
+TC-284,"Verify Student can clear their chat history manually",Pass,Pass,Passed
+TC-285,"Verify UI handles markdown formatting (bold, code blocks) in AI responses",Pass,Pass,Passed
+TC-286,"Verify AI handles typos in user questions gracefully",Pass,Pass,Passed
+TC-287,"Verify Teacher can disable AI Study Buddy for their specific Subject during exams",Pass,Pass,Passed
+TC-288,"Verify Admin can view anonymized logs of AI interactions for quality assurance",Pass,Pass,Passed
+TC-289,"Verify Admin can set a rate limit on AI messages per Student (e.g. 50/day)",Pass,Pass,Passed
+TC-290,"Verify Student is notified when they reach their daily AI message limit",Pass,Pass,Passed
+TC-291,"Verify AI correctly parses math equations requested by Students",Pass,Pass,Passed
+TC-292,"Verify AI renders math equations using LaTeX/MathJax in the UI",Pass,Pass,Passed
+TC-293,"Verify AI handles multi-language support (e.g. asking in Spanish)",Pass,Pass,Passed
+TC-294,"Verify AI interface supports speech-to-text input on mobile",Pass,Pass,Passed
+TC-295,"Verify AI interface supports text-to-speech output (reading responses)",Pass,Pass,Passed
+TC-296,"Verify AI identifies and escalates urgent queries (e.g. 'I want to drop out') to Admin",Pass,Pass,Passed
+TC-297,"Verify AI UI auto-scrolls to the newest message",Pass,Pass,Passed
+TC-298,"Verify 'typing...' indicator appears while AI is processing the response",Pass,Pass,Passed
+TC-299,"Verify error message appears gracefully if AI service is temporarily down",Pass,Pass,Passed
+TC-300,"Verify AI feedback mechanism (thumbs up/down) successfully records user ratings",Pass,Pass,Passed
