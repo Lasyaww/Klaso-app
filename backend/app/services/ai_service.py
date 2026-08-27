@@ -21,20 +21,9 @@ if GROQ_API_KEY:
 else:
     llm = None
     print("Warning: GROQ_API_KEY not found in .env. Falling back to local AI model.")
-    try:
-        model_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../local_model"))
-        if os.path.exists(model_path):
-            print(f"Found fine-tuned local model at {model_path}. Loading it...")
-            local_tokenizer = AutoTokenizer.from_pretrained(model_path)
-            local_model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
-        else:
-            print("Local fine-tuned model not found. Loading base flan-t5-small model...")
-            local_tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-small")
-            local_model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small")
-    except Exception as e:
-        print(f"Failed to load local model: {e}")
-        local_model = None
-        local_tokenizer = None
+    # Local model is disabled to prevent hallucinations and force high-quality fallback responses
+    local_model = None
+    local_tokenizer = None
 
 NON_ACADEMIC_KEYWORDS = [
     r"\bactor\b", r"\bmovie\b", r"\bjoke\b", r"\bsong\b", r"\bsport\b", r"\bcricket\b",
