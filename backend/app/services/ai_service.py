@@ -104,7 +104,11 @@ def generate_ai_chat_response(
                         ]
                     }
                 ]
-                response = llm.chat.completions.create(model="llama-3.2-11b-vision-preview", messages=messages)
+                try:
+                    response = llm.chat.completions.create(model="llama-3.2-11b-vision-preview", messages=messages)
+                except Exception as ve:
+                    print(f"Vision API Error: {ve}")
+                    return "⚠️ **Image Analysis Not Supported:** Your current API key does not have access to a vision model (llama-3.2-11b-vision-preview). Please upload your study material as a **PDF** or **Text document** instead, and I will be happy to help!"
             else:
                 messages = [
                     {"role": "system", "content": system_prompt},
